@@ -1,2 +1,2 @@
 # Bike-Sales-Dashboard
-Data Cleaning, Interactive visualization with Pivot table and dashboard with MS-Excel 
+Data Cleaning and Interactive visualization using Pivot table and dashboard with MS-Excel 
